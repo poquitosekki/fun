@@ -1,5 +1,5 @@
-# fun
-data and more data...
+# Main Takes
+Simple notes and takes while playing around with statistics, data science and machine learning topics...
 
 # Introduction to Statistial Thinking
 
